@@ -3,6 +3,9 @@
 *.pyo
 *.yml
 *.bmp
+*.BMP
 *.prt
+*.PRT
 *.pal
 venv
+__pycache__
