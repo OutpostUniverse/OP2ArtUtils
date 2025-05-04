@@ -1,0 +1,8 @@
+.DS_Store
+*.pyc
+*.pyo
+*.yml
+*.bmp
+*.prt
+*.pal
+venv
